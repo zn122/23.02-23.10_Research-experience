@@ -1,7 +1,6 @@
 These codes are my research records for 230209-231018.
 # Topic : digital therapeutics
-## Use tabular format data to predict mild mild cognitive impairment
-
+- Use tabular format data to predict mild mild cognitive impairment
 
 1. Since the missing value of the data affects the prediction, 'missing data imputation' was performed to replace the missing value with an appropriate value.
 
